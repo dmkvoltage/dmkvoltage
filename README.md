@@ -115,13 +115,15 @@
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dmkvoltage&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B9D&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dmkvoltage&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B9D&fire=FF6B9D&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=dmkvoltage&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B9D&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=dmkvoltage&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B9D&fire=FF6B9D&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmkvoltage&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dmkvoltage&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=dmkvoltage&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B9D&point=FFFFFF&area=true" alt="Activity Graph"/>
 </div>
 
