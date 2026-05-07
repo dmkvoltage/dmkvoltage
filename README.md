@@ -113,7 +113,6 @@
 
 <br/>
 
-## 📊 GitHub Statistics
 
 ## 📊 GitHub Statistics
 
