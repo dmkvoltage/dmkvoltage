@@ -10,7 +10,7 @@
 
 <br/>
 
-## 🚀 About Me
+## 🚀 About Kingo
 
 <div align="center">
 
