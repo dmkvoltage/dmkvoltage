@@ -40,7 +40,7 @@
 
 <br/>
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools I use 
 
 <div align="center">
 
