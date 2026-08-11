@@ -18,7 +18,7 @@
 |:---:|:---|
 | 📛 **Name** | Kingo Kingsley Krane |
 | 📍 **Location** | Cameroon 🇨🇲 |
-| 💼 **Role** | AI/ML, Full Stack Developer & Systems Engineer |
+| 💼 **Role** | AI/ML, Full Stack Developer & Systems Engineer | B.Eng
 | 🗣️ **Languages** | Python, TypeScript, Dart, C |
 | 🎯 **Interests** | Systems Design, Cloud Computing, AI, Open Source |
 | 📚 **Currently Learning** | Docker, Kubernetes, Cloud Infrastructure, Distributed Systems |
