@@ -10,7 +10,7 @@
 
 <br/>
 
-## 🚀 About  Kingo
+## 🚀 About  Kingo Krane
 
 <div align="center">
 
@@ -88,7 +88,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
-### ☁️ DevOps & Cloud
+### ☁️ DevOps & Cloud/VPS
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
