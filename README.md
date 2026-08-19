@@ -10,7 +10,7 @@
 
 <br/>
 
-## 🚀 About  Kingo DMK
+## 🚀 About  Kingo Keane K
 
 <div align="center">
 
