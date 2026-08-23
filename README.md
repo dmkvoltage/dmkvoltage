@@ -10,7 +10,7 @@
 
 <br/>
 
-## 🚀 About  Kingo Keane K
+## 🚀 About  Kingo Krane K
 
 <div align="center">
 
