@@ -10,7 +10,7 @@
 
 <br/>
 
-## 🚀 About  Kingo Krane Kaah
+## 🚀 About  Kingo Krane K
 
 <div align="center">
 
