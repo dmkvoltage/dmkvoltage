@@ -10,7 +10,7 @@
 
 <br/>
 
-## 🚀 About  Kingsley Kingo
+## 🚀 About  Kingo Kingsley 
 
 <div align="center">
 
