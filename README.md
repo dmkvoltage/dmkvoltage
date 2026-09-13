@@ -10,7 +10,7 @@
 
 <br/>
 
-## 🚀 About  Kingo Kingsley 
+## 🚀 About  Big Tripple K
 
 <div align="center">
 
