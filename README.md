@@ -10,7 +10,7 @@
 
 <br/>
 
-## 🚀 About  Big Tripple K
+## 🚀 About  Big Kingo
 
 <div align="center">
 
